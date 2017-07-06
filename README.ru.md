@@ -4,7 +4,7 @@
 ## Установка через composer
 composer require OlegChulakovStudio/yii2-vkapi
 ## Или добавьте эту строку в секцию require файла composer.json и выполните команду composer update в консоли
-"OlegChulakovStudio/yii2-yii2-vkapi": "*"
+"OlegChulakovStudio/yii2-vkapi": "*"
 ## Использование
 В конфигурационном файле пропишите:
 ```php
