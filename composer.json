@@ -5,7 +5,7 @@
   "type": "yii2-components",
   "require": {
     "php": ">=5.4.0",
-    "vladkens/VK": "^0.1.9"
+    "vladkens/vk": "^0.1.9"
   },
   "authors": [
     {
